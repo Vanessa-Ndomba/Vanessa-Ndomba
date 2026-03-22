@@ -3,7 +3,17 @@
 -----
 
 <p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/SWoRKslHVtqgvwxNfS/giphy.gif" width = 200/>
+  <img alt="GIF" src="https://media.giphy.com/media/SWoRKslHVtqgvwxNfS/giphy.gif" width = 200/>
+</p>
+
+-----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F700&center=true&width=600&lines=const+developer+%3D+%7B;name%3A+'Vanessa';skills%3A+%5B'Web+Dev'%2C+'Automation'%5D;passion%3A+'Building+Solutions';%7D;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZYzK/giphy.gif" width="300" alt="Computer with code"/>
 </p>
 
 -----
