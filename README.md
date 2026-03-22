@@ -10,10 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello, I'm a Software Developer with hands-on experience in web development, automation, and IT support. I love building practical, user-friendly applications and optimizing digital experiences. I'm passionate about collaborating with people on projects of mutual interest and delivering reliable technical solutions.
-
-🌱 &nbsp;I'm on track for learning more about full-stack development, cloud technologies, and scalable systems.\
-✍️ &nbsp;Apart from technical interests, I enjoy exploring new technologies, solving complex problems, and contributing to meaningful projects.\
+💡 &nbsp; Hello, I'm a Software Developer with hands-on experience in web development, automation, and IT support. 
 💬 &nbsp;Feel free to reach out to me for collaboration, freelance opportunities, or technical discussions.\
 ✉️ &nbsp;You can email me at vanessandomba2@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Portfolio](https://vanessa-ndomba.vercel.app/) for more details about my work and experience.
