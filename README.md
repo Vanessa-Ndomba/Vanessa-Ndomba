@@ -1,4 +1,4 @@
-### Hello world, I'm Vanessa 👋
+### Hello there, I'm Vanessa 👋
 
 -----
 
