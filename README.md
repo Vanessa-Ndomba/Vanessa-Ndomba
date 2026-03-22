@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFkbHMzN2hmN3ZzeGp4cm1xMDZkZTF6eDBiamV0eDF1bjM2MnY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width = 200/>
+  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFkbHMzN2hmN3ZzeGp4cm1xMDZkZTF6eDBiamV0eDF1bjM2MnY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width=200/>
 </p>
 
 -----
@@ -44,20 +44,6 @@
   -----
    
 </p>
-
------
-
-<h1 align="center">Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-Ndomba&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
-
-<img align="left" alt="Vanessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vanessa-Ndomba&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-Ndomba&layout=compact&theme=dark" width="46%" />
-<br>
 
 -----
 
